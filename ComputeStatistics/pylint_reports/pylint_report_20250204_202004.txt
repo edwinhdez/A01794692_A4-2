@@ -1,0 +1,2 @@
+************* Module c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\src\computeStatistics.py
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\src\computeStatistics.py:1:0: F0001: No module named c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\src\computeStatistics.py (fatal)

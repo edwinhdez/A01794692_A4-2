@@ -1,0 +1,6 @@
+************* Module compute_statistics
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\compute_statistics.py:46:11: W0718: Catching too general exception Exception (broad-exception-caught)
+
+------------------------------------------------------------------
+Your code has been rated at 9.82/10 (previous run: 9.82/10, +0.00)
+

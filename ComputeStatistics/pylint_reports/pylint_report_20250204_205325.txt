@@ -1,0 +1,13 @@
+************* Module compute_statistics
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\compute_statistics.py:97:0: C0304: Final newline missing (missing-final-newline)
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\compute_statistics.py:46:11: W0718: Catching too general exception Exception (broad-exception-caught)
+
+------------------------------------------------------------------
+Your code has been rated at 9.64/10 (previous run: 9.62/10, +0.01)
+
+Explicación de los cambios:
+Refactorización de la función main:
+Se ha movido la lógica de procesamiento del archivo y cálculo de estadísticas a una nueva función process_file_and_compute_statistics. Esto reduce el número de variables locales en main.
+
+Excepciones específicas:
+Se han especificado las excepciones que se pueden capturar (FileNotFoundError, OSError y Exception).

@@ -1,0 +1,15 @@
+************* Module compute_statistics
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\compute_statistics.py:46:11: W0718: Catching too general exception Exception (broad-exception-caught)
+
+------------------------------------------------------------------
+Your code has been rated at 9.82/10 (previous run: 9.64/10, +0.18)
+
+
+
+Explicación de los cambios:
+
+Nueva línea al final del archivo:
+Añadida una nueva línea al final del archivo.
+
+Excepciones específicas:
+Se han especificado las excepciones que se pueden capturar (FileNotFoundError, OSError y Exception).

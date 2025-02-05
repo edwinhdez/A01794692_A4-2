@@ -1,0 +1,22 @@
+************* Module computeStatistics
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\computeStatistics.py:92:0: C0304: Final newline missing (missing-final-newline)
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\computeStatistics.py:1:0: C0103: Module name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\computeStatistics.py:30:0: R0914: Too many local variables (19/15) (too-many-locals)
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\computeStatistics.py:56:11: W0718: Catching too general exception Exception (broad-exception-caught)
+
+------------------------------------------------------------------
+Your code has been rated at 9.25/10 (previous run: 7.80/10, +1.45)
+
+Comentarios de pylint y soluciones:
+->Final newline missing:
+Falta una nueva línea al final del archivo. Vamos a añadirla.
+
+->Module name doesn't conform to snake_case naming style:
+El nombre del módulo computeStatistics no sigue el estilo snake_case. Vamos a renombrar el archivo a compute_statistics.py.
+
+->Too many local variables:
+La función main tiene demasiadas variables locales. Vamos a refactorizarla si es posible.
+
+->Catching too general exception Exception:
+Se está capturando una excepción demasiado general. Vamos a especificar las excepciones que se pueden capturar.
+

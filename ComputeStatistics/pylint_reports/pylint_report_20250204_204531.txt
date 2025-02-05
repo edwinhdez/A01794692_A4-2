@@ -1,0 +1,44 @@
+************* Module computeStatistics
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\computeStatistics.py:12:0: C0301: Line too long (112/100) (line-too-long)
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\computeStatistics.py:22:0: C0301: Line too long (114/100) (line-too-long)
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\computeStatistics.py:23:0: C0301: Line too long (149/100) (line-too-long)
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\computeStatistics.py:76:0: C0304: Final newline missing (missing-final-newline)
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\computeStatistics.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\computeStatistics.py:1:0: C0103: Module name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\computeStatistics.py:7:0: C0116: Missing function or method docstring (missing-function-docstring)
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\computeStatistics.py:21:0: C0116: Missing function or method docstring (missing-function-docstring)
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\computeStatistics.py:21:0: R0914: Too many local variables (19/15) (too-many-locals)
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\computeStatistics.py:41:11: W0718: Catching too general exception Exception (broad-exception-caught)
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\ComputeStatistics\src\computeStatistics.py:72:9: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+
+------------------------------------------------------------------
+Your code has been rated at 7.80/10 (previous run: 7.80/10, +0.00)
+
+Documentacion de probleamas:
+
+Comentarios de pylint y soluciones:
+Line too long:
+
+Las líneas 12, 22 y 23 son demasiado largas. Vamos a dividirlas en varias líneas.
+Final newline missing:
+
+Falta una nueva línea al final del archivo. Vamos a añadirla.
+Missing module docstring:
+
+Falta un docstring para el módulo. Vamos a añadirlo.
+Module name doesn't conform to snake_case naming style:
+
+El nombre del módulo computeStatistics no sigue el estilo snake_case. Vamos a renombrar el archivo a compute_statistics.py.
+Missing function or method docstring:
+
+Faltan docstrings para las funciones. Vamos a añadirlos.
+Too many local variables:
+
+La función main tiene demasiadas variables locales. Vamos a refactorizarla si es posible.
+Catching too general exception Exception:
+
+Se está capturando una excepción demasiado general. Vamos a especificar las excepciones que se pueden capturar.
+Using open without explicitly specifying an encoding:
+
+Se está usando open sin especificar explícitamente una codificación. Vamos a añadir la codificación.
+
