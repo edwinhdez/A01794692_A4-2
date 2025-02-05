@@ -1,0 +1,7 @@
+************* Module count_words
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\CountWords\src\count_words.py:69:0: C0301: Line too long (104/100) (line-too-long)
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\CountWords\src\count_words.py:88:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.61/10 (previous run: 9.63/10, -0.02)
+

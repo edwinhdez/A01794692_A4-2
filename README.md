@@ -17,4 +17,3 @@ Este proyecto calcula estadísticas descriptivas (media, mediana, moda, varianza
 
 2. Usar el archivo pyproject.toml para instalacion de paquetes y dependencias.
 
-3. 

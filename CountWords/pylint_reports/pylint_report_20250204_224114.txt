@@ -1,0 +1,7 @@
+************* Module count_words
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\CountWords\src\count_words.py:69:0: C0301: Line too long (104/100) (line-too-long)
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\CountWords\src\count_words.py:40:11: W0718: Catching too general exception Exception (broad-exception-caught)
+
+-----------------------------------
+Your code has been rated at 9.63/10
+
