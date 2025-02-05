@@ -27,7 +27,7 @@ pip install -r requirements.txt
 To run the application, use the following command:
 
 ```
-python src/main.py <path_to_file>
+python src/compute_statistics.py <path_to_file>
 ```
 
 Replace `<path_to_file>` with the path to the file containing the list of items.

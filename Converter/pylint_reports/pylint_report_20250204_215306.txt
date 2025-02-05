@@ -1,0 +1,7 @@
+************* Module convert_numbers
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\Converter\src\convert_numbers.py:2:0: C0301: Line too long (105/100) (line-too-long)
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\Converter\src\convert_numbers.py:51:11: W0718: Catching too general exception Exception (broad-exception-caught)
+
+------------------------------------------------------------------
+Your code has been rated at 9.69/10 (previous run: 9.69/10, +0.00)
+

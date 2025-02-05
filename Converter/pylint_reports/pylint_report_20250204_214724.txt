@@ -1,0 +1,9 @@
+************* Module convertNumbers
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\Converter\src\convertNumbers.py:2:0: C0301: Line too long (105/100) (line-too-long)
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\Converter\src\convertNumbers.py:103:0: C0304: Final newline missing (missing-final-newline)
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\Converter\src\convertNumbers.py:1:0: C0103: Module name "convertNumbers" doesn't conform to snake_case naming style (invalid-name)
+c:\git\TecMonterrrey\QualitySoftware\A01794692_A4-2\Converter\src\convertNumbers.py:51:11: W0718: Catching too general exception Exception (broad-exception-caught)
+
+-----------------------------------
+Your code has been rated at 9.38/10
+

@@ -43,9 +43,9 @@ def process_file_and_compute_statistics(file_path):
     except OSError as e:
         print(f"An OS error occurred: {e}")
         sys.exit(1)
-    except Exception as e:
-        print(f"An unexpected error occurred: {e}")
-        sys.exit(1)
+    # except Exception as e:
+    #     print(f"An unexpected error occurred: {e}")
+    #     sys.exit(1)
 
     if not numbers:
         print("Error: No valid numbers found in the file.")
